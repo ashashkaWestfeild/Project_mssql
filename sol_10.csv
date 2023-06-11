@@ -1,0 +1,6 @@
+﻿house_type,bhk_type,bed_count,furnishing_type,beds_vacant,house_id,name,description,city,pincode
+Apartment,3 BHK,5,unfurnished,2,1,Zaanz appartment,"Sterling BrookSide, Opp. Kundalahalli Colony, ITPL Main Rd",bangalore,560037
+Apartment,3 BHK,3,semifurnished,0,7,UDB Building,Flat No: T1 Deccan Field Appartment Kunadanhalli main road,bangalore,560037
+Apartment,2 BHK,4,fully-furnished,1,8,Apoorva society,"Flat No-202, Apoorva Apartment No-296 Vyalikaval House Building Cooperative Society Ltd Nagavara",Delhi,561202
+Apartment,3 BHK,3,fully-furnished,0,14,Nestaway building,"#157, 4th Cross, 1st Main Road, Lower Palace Orchard",Delhi,546783
+Apartment,3 BHK,3,fully-furnished,0,16,Indira society,"No. 502, Indira Meadows, Arunodaya Colony",Pune,302017

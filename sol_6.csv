@@ -1,0 +1,9 @@
+﻿profile_id,rent,Move_In_Date,house_type,beds_vacant,description,city,address
+2,11000,00:00.0,Apartment,1,"No.44,Ground floor,20th cross,Sector 2 HSR Layout,Bangalore.",bangalore,"stag saptgiri, No.44,Ground floor,20th cross,Sector 2 HSR Layout,Bangalore., bangalore, 560102"
+5,9000,00:00.0,Apartment,4,"No.44,First floor,20th cross,Sector 2 HSR Layout.",bangalore,"sri sai enclave, No.44,First floor,20th cross,Sector 2 HSR Layout., bangalore, 560102"
+7,6500,00:00.0,Apartment,1,"# 595/1, 1st Floor,1st A main, Domlur Layout",bangalore,"Juniper appartments, # 595/1, 1st Floor,1st A main, Domlur Layout, bangalore, 560038"
+6,10200,00:00.0,Apartment,1,"Flat No-202, Apoorva Apartment No-296 Vyalikaval House Building Cooperative Society Ltd Nagavara",Delhi,"Apoorva society, Flat No-202, Apoorva Apartment No-296 Vyalikaval House Building Cooperative Society Ltd Nagavara, Delhi, 561202"
+10,7500,00:00.0,Independent,1,"302,#473 VAK Residency, B-Block, AECS Layout Kundalahalli,",Delhi,"VaK Residency, 302,#473 VAK Residency, B-Block, AECS Layout Kundalahalli,, Delhi, 456738"
+14,13500,00:00.0,Independent,1,"D1-1201, Uniworld Garden 2",Pune,"uniworld, D1-1201, Uniworld Garden 2, Pune, 543678"
+11,8000,00:00.0,Independent,1,"49, House 1 lathangi 2nd main vinayaka housing layout, RMV 2nd stage bhoopasandra",Pune,"Vinayaka residency, 49, House 1 lathangi 2nd main vinayaka housing layout, RMV 2nd stage bhoopasandra, Pune, 560094"
+19,7500,00:00.0,Independent,2,"Majeera Diamond Towers,malad-west",Pune,"Sun city appartments, Majeera Diamond Towers,malad-west, Pune, 5600263"
